@@ -3,7 +3,7 @@
 
 这是一个用 Python (Tkinter + Pygame + PIL) 开发的 ‘五子棋’ 应用。  
 支持人机对战、双人对战、悔棋、音效、胜利记录保存等多种功能，界面美观，体验流畅！
-This is a 'Gobang' application developed in Python (Tkinter + Pygame + PIL).
+\nThis is a 'Gobang' application developed in Python (Tkinter + Pygame + PIL).
 It supports multiple functions such as human-computer battle, two-player battle, undo, sound effects, victory record saving, etc. 
 The interface is beautiful and the experience is smooth!
 
